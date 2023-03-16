@@ -1,0 +1,64 @@
+Youtube: https://www.youtube.com/@BenEater
+
+
+___________________________________________________________________________________________
+#VIDEO-1
+#Title      : Bus architecture and how register transfers work - 8 bit register - Part 1 
+#Link       : https://youtu.be/QzWW-CBugZo?list=PLowKtXNTBypGqImE405J2565dvjafglHU
+#Content    : How bus architecture work, How subcomponents of a computer communicate and transfer data to each other
+#             Where short circuit is prevented
+#Who watched: Erdem Canaz,
+___________________________________________________________________________________________
+
+
+___________________________________________________________________________________________
+#VIDEO-2
+#Title       : Tri-state logic: Connecting multiple outputs together - 8 bit register - Part 2
+#Link        : https://youtu.be/faAjse109Q8?list=PLowKtXNTBypGqImE405J2565dvjafglHU
+#Content     : Possible output logic states of a device is discussed( high, low, high-impedance). Which is called tristate logic.
+#              Using 3-state logic, one may allow a component to be connected to multiple other components, without shorting them out.
+#              Since the output is high-impedance, the output is not connected to the other components, and no short circuit occurs.
+#              While one device is driving the BUS, other devices's outpus are at high-z state.
+#              
+#              IC to be used by this purpose is;      
+#                ->74LS245: octal bus transceiver                
+#Who watched: Erdem Canaz,
+___________________________________________________________________________________________
+
+
+
+___________________________________________________________________________________________
+#VIDEO-3
+#Title       : Building an 8-bit register - 8-bit register - Part 4
+#Link        : https://youtu.be/CiMaWbz_6E8?list=PLowKtXNTBypGqImE405J2565dvjafglHU             
+#Content     : Storing 8 Bit data in a register. How to store data in a register, clock, output enable and load enable pins are discussed.
+#
+#              IC to be used by this purpose is;      
+#                ->74LS173: 4-Bit D type Register with 3 State output.
+#Who watched: Erdem Canaz,
+___________________________________________________________________________________________
+
+
+___________________________________________________________________________________________
+#VIDEO-4
+#Title       : Testing our computer's registers - 8-bit register - Part 5
+#Link        : https://youtu.be/9WE3Obdjtv0?list=PLowKtXNTBypGqImE405J2565dvjafglHU           
+#Content     : Forming a test circuit to test the register. How to test the register, how to use the test circuit is discussed.
+#
+#              IC to be used by this purpose is;      
+#                ->74LS173: 4-Bit D type Register with 3 State output.
+#Who watched: Erdem Canaz,
+___________________________________________________________________________________________
+
+___________________________________________________________________________________________
+#VIDEO-5
+#Title       : ALU Design
+#Link        : https://youtu.be/mOVOS9AjgFs?list=PLowKtXNTBypGqImE405J2565dvjafglHU         
+#Content     : Register-ALU architecture is discussed. ALU is a component that performs arithmetic and logic operations on data.
+               carry-in, carry-out, hardware application of 2's complement (XOR gate to get 1's complement, then add carry-in to get 2's complement)
+#
+#              IC to be used by this purpose is;      
+#                ->74LS283: 4-Bit Binary adder with fast carry
+#Who watched: Erdem Canaz,
+___________________________________________________________________________________________
+
