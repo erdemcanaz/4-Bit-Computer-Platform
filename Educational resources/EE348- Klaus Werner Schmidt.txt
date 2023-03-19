@@ -1,0 +1,28 @@
+Klaus Werner Schmidt 
+(https://users.metu.edu.tr/home402/schmidt/wwwhome/)
+(https://eee.metu.edu.tr/tr/personel/klaus-werner-schmidt)
+
+___________________________________________________________________________________________
+Chapter 1: Part 1 - Number Systems -> https://youtu.be/pMr8OQCGwzs
+*The number system
+*The binary, hexadecimal, octal, decimal, any base number system
+*The number system conversion
+
+
+___________________________________________________________________________________________
+Chapter 1: Part 2 - Complements -> https://youtu.be/Vu0mBN3Q0wQ
+*r's Complements
+*(r-1)'s Complements
+subtraction of unsigned integers using 2's Complements
+
+
+___________________________________________________________________________________________
+Chapter 1: Part 3 - Signed Arithmetic -> https://youtu.be/xUbPeEgsqWU
+*signed magnitude, signed 1's Complements, signed 2's Complements
+*signed addition, signed subtraction (tips and tricks)
+*Encodings -> Binary coded decimal (BCD), excess-3, Gray code, ASCII code
+*Error detection: even and odd parity
+
+
+
+
